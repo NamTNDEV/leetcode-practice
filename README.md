@@ -13,13 +13,12 @@ This repository contains my solutions to LeetCode problems using **JavaScript**.
 ### 🧠 Topics Covered
 
 - 📌 Array & String
-- ...
-<!-- - 📊 Hash Table, Stack, Queue
+- 📊 Hash Table, Stack, Queue
 - 🌳 Binary Tree, DFS, BFS
 - 📈 Dynamic Programming
 - 🔁 Recursion & Backtracking
 - 🧩 Math & Logic Puzzles
-- 📚 Sorting, Searching, Greedy, and more! -->
+- 📚 Sorting, Searching, Greedy, and more!
 
 ---
 
@@ -38,8 +37,8 @@ This repository contains my solutions to LeetCode problems using **JavaScript**.
 
 ### 📊 Problem Stats
 
-- 🟢 Easy: 1 problems solved
-- 🟡 Medium: 0 problems solved
+- 🟢 Easy: 3 problems solved
+- 🟡 Medium: 1 problems solved
 - 🔴 Hard: 0 problems solved
 - 📈 Total: 0 problems
 
