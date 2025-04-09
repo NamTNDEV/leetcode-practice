@@ -38,9 +38,9 @@ This repository contains my solutions to LeetCode problems using **JavaScript**.
 ### 📊 Problem Stats
 
 - 🟢 Easy: 8 problems solved
-- 🟡 Medium: 1 problems solved
+- 🟡 Medium: 2 problems solved
 - 🔴 Hard: 0 problems solved
-- 📈 Total: 9 problems
+- 📈 Total: 10 problems
 
 ---
 
