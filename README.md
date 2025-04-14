@@ -37,10 +37,10 @@ This repository contains my solutions to LeetCode problems using **JavaScript**.
 
 ### 📊 Problem Stats
 
-- 🟢 Easy: 12 problems solved
+- 🟢 Easy: 13 problems solved
 - 🟡 Medium: 2 problems solved
 - 🔴 Hard: 0 problems solved
-- 📈 Total: 14 problems
+- 📈 Total: 15 problems
 
 ---
 
