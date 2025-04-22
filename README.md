@@ -40,7 +40,7 @@ This repository contains my solutions to LeetCode problems using **JavaScript**.
 - 🟢 Easy: 22 problems solved
 - 🟡 Medium: 5 problems solved
 - 🔴 Hard: 1 problems solved
-- 📈 Total: 28 problems
+- 📈 Total: 29 problems
 
 ---
 
