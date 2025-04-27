@@ -37,10 +37,10 @@ This repository contains my solutions to LeetCode problems using **JavaScript**.
 
 ### 📊 Problem Stats
 
-- 🟢 Easy: 26 problems solved
+- 🟢 Easy: 29 problems solved
 - 🟡 Medium: 5 problems solved
 - 🔴 Hard: 1 problems solved
-- 📈 Total: 33 problems
+- 📈 Total: 36 problems
 
 ---
 
@@ -54,7 +54,7 @@ This repository contains my solutions to LeetCode problems using **JavaScript**.
 
 ### 📅 Goal
 
-Solve at least 3–5 problems per week, track progress, and revisit old problems to reinforce learning. Slow but steady wins the race 🐢💪
+Solve at least 1-3 problems per day, track progress, and revisit old problems to reinforce learning. Slow but steady wins the race 🐢💪
 
 ---
 
